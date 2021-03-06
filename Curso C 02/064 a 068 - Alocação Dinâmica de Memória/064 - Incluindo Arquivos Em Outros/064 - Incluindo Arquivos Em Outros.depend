@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593889854 source:c:\users\pichau\onedrive\ws's\ws-codeblocks\curso completo de linguagem c e c++ - iniciante ao avançado\064 a 068 - alocação dinâmica de memória\064 - incluindo arquivos em outros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1486443597 c:\users\pichau\onedrive\ws's\ws-codeblocks\curso completo de linguagem c e c++ - iniciante ao avançado\064 a 068 - alocação dinâmica de memória\064 - incluindo arquivos em outros\functions.h
+
