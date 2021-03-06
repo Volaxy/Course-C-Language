@@ -1,0 +1,4 @@
+gustavo 8
+gabriella 5.6
+adriana 7.8
+lucas 9

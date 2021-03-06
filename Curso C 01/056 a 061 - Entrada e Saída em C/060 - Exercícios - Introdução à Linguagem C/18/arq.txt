@@ -1,0 +1,3 @@
+narnia 10
+cronicas 20
+biblia 30

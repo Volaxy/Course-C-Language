@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593888354 source:c:\users\pichau\onedrive\ws's\ws-codeblocks\curso de programação em c - do básico ao avançado\086 a 092 - alocação dinâmica de memória em c\089 - funções para alocação de memória - realloc\main.c
+	<stdio.h>
+	<stdlib.h>
+

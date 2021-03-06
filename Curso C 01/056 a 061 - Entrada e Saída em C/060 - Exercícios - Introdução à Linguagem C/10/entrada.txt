@@ -1,0 +1,5 @@
+maracuta                                450
+marapicui                               1548
+recife                                  346
+goias                                   4968
+bahia                                   3290

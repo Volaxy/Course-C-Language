@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587589479 source:c:\ws's\ws-codeblocks\curso de programação em c - do básico ao avançado\009 a 014 - introdução à linguagem c\exercícios - introdução à linguagem c\45\main.c
+	<stdio.h>
+	<stdlib.h>
+
